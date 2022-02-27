@@ -118,7 +118,7 @@ with reasonable inference time.
 You can replicate our experiment by running `bash runall.bash`.
 
 <div align="center">
-  <img width="60%" src="figures/regression_boston_housing.svg" />
+  <img width="640px" src="figures/regression_boston_housing.svg" />
 </div>
 
 See [regression/README.md](regression/README.md) for more details.
@@ -142,7 +142,7 @@ our expectation (we expected more than 90% within 10.0 sec).
 You can replicate our experiment by running `bash runall.bash`.
 
 <div align="center">
-  <img width="60%" src="figures/classification_mnist.svg" />
+  <img width="640px" src="figures/classification_mnist.svg" />
 </div>
 
 See [classification/README.md](classification/README.md) for more details.
@@ -182,7 +182,7 @@ from the sevice provider is encrypted output that can be decrypt using your
 private key. See the following figure.
 
 <div align="center">
-  <img width="60%" src="figures/sketch_usecase_he_ml.svg" />
+  <img width="640px" src="figures/sketch_usecase_he_ml.svg" />
 </div>
 
 ### Appendix B: What's Homomorphic Encription?
@@ -194,7 +194,7 @@ encryption) and `c1` and `c2` be corresponding cipher texts respectively.
 The HE provides a function `F` which satisfies `Decrypt(F(c1, c2)) = p1 + p2`.
 
 <div align="center">
-  <img width="40%" src="figures/sketch_he.svg" />
+  <img width="360px" src="figures/sketch_he.svg" />
 </div>
 
 HE algorithm can be classified to several types of encryption schemes that
